@@ -1,5 +1,3 @@
-console.log("Hello")
- 
 const code = document.getElementById("code")
 const which = document.getElementById("which")
 const key = document.getElementById("key")
